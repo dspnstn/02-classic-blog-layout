@@ -1,0 +1,11 @@
+---
+import Layout from "../layouts/Layout.astro";
+import BlogPost from "../layouts/BlogPost.astro";
+
+
+const {tag} = Astro.props;
+---
+<a
+    class="rounded-xl p-[0.5rem] text-red-600 bg-red-100 text-xl no-underline"
+    href="\."> {tag} 
+</a>
