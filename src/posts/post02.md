@@ -1,0 +1,5 @@
+---
+title: First Journal Entry
+tags: [one more tag, something, other]
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium tellus nisi, non lacinia dolor iaculis eget. Proin maximus ipsum mi, ultricies tempus turpis facilisis nec. Vestibulum ullamcorper elementum imperdiet. Duis fringilla pharetra purus quis convallis. Donec enim ex, fringilla lobortis eleifend id, iaculis eget ex. Sed malesuada sollicitudin eros, eget maximus ex sodales a. Morbi ac felis ligula. Nam eget risus lacus. Aliquam erat volutpat. In dolor arcu, ultricies sed ante sed, euismod consequat ex. Nam tempor id tellus eget blandit. Aliquam sagittis justo id lacinia aliquet. Pellentesque non lacinia metus. Maecenas mattis ipsum a orci suscipit commodo. Ut sapien magna, ullamcorper eu aliquet porta, aliquam a mauris.

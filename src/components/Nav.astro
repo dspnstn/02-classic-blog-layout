@@ -1,10 +1,13 @@
 ---
 import Tag from "./Tag.astro";
+const allPosts = await Astro.glob('../posts/*.md');
+const allTags = [...new Set(allPosts.flatMap(post => post.frontmatter.tags || []))];
 ---
-<div class="mt-2 flex flex-row justify-around items-center flex-wrap gap-1">
-    <Tag tag="something" />
-    <Tag tag="something else" />
-    <Tag tag="other" />
-    <Tag tag="more of the same" />     
-    <Tag tag="something new" /> 
-</div>
+<nav class="mt-2 flex flex-row justify-around items-center flex-wrap gap-1">
+  {allTags.map(tag => (
+    <a 
+    class="
+    rounded-full px-2 h-8 leading-8 text-red-600 bg-red-100 font-semibold no-underline hover:bg-red-200"
+    href={`/tags/${tag}`}>{tag}</a>
+  ))}
+</nav>
