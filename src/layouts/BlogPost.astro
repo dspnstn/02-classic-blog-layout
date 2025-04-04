@@ -1,9 +1,18 @@
 ---
-//import tags
+const { title, tags, date } = Astro.props.frontmatter;
 ---
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{title}</title>
+</head>
+<body>
 <article>
     <p>
         <!--TAG  -->
     </p> 
     <slot />
 </article>
+</body>
+</html>

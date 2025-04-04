@@ -1,5 +1,7 @@
 ---
 title: First Journal Entry
 tags: [one more tag, something, other]
+layout: "../layouts/BlogPost.astro"
+date: 2025-04-01
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium tellus nisi, non lacinia dolor iaculis eget. Proin maximus ipsum mi, ultricies tempus turpis facilisis nec. Vestibulum ullamcorper elementum imperdiet. Duis fringilla pharetra purus quis convallis. Donec enim ex, fringilla lobortis eleifend id, iaculis eget ex. Sed malesuada sollicitudin eros, eget maximus ex sodales a. Morbi ac felis ligula. Nam eget risus lacus. Aliquam erat volutpat. In dolor arcu, ultricies sed ante sed, euismod consequat ex. Nam tempor id tellus eget blandit. Aliquam sagittis justo id lacinia aliquet. Pellentesque non lacinia metus. Maecenas mattis ipsum a orci suscipit commodo. Ut sapien magna, ullamcorper eu aliquet porta, aliquam a mauris.
+Etiam vitae libero pulvinar, suscipit orci vitae, feugiat dolor. Sed pulvinar, felis vitae rhoncus iaculis, ipsum ipsum finibus nisi, vitae hendrerit tellus libero vel eros. Ut vitae arcu vel purus maximus congue eu et eros. Aliquam cursus ultrices nunc fringilla vestibulum. Etiam accumsan dolor mi. Nam eu turpis vel justo consectetur tristique eget non nunc. Suspendisse blandit mi ligula, ac aliquet sem iaculis sit amet. Proin nec ullamcorper est, sed congue nisl. Ut maximus nisl massa, vitae iaculis felis fermentum sed. Nullam lobortis, risus at blandit laoreet, metus sem dictum arcu, ut ultrices arcu justo id urna. Phasellus elit dui, aliquet eleifend lectus molestie, porta efficitur massa. Mauris tincidunt est nisi. Nunc sodales vulputate purus vitae fermentum.
